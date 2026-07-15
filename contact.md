@@ -4,7 +4,7 @@ Get in touch with our team for help with issues, questions, or feedback. Before 
 
 ## Getting help
 
-Email us at [support@marvin.cloud](mailto:support@marvin.cloud). We respond to all inquiries within 1-2 business days.
+Email us at [support@marvinsci.com](mailto:support@marvinsci.com). We respond to all inquiries within 1-2 business days.
 
 ## Reporting an issue
 
@@ -30,4 +30,4 @@ Enterprise customers have access to dedicated support channels. Contact your acc
 
 ## Feature requests
 
-We read every feature request that comes in, and your feedback directly shapes our roadmap. To submit a request, email us at [support@marvin.cloud](mailto:support@marvin.cloud) with a description of what you'd like to see and why it would help your workflow.
+We read every feature request that comes in, and your feedback directly shapes our roadmap. To submit a request, email us at [support@marvinsci.com](mailto:support@marvinsci.com) with a description of what you'd like to see and why it would help your workflow.

@@ -73,7 +73,7 @@ Marvin offers four tiers — Free, Academic, Pro, and Team — plus a custom Ent
 
 The Free tier lets you explore Marvin at no cost.
 
-- **$0**, open signup
+- **No cost**, open signup
 - **1 seat**
 - Includes **chat** and **literature lookup**
 - Does **not** include autonomous research runs
@@ -84,7 +84,7 @@ Free is great for trying the conversation and literature-search features and eva
 
 The Academic tier is our **real research tier** for students and academics — not just a trial.
 
-- **$0**
+- **No cost**
 - Requires **`.edu` email verification**
 - **Autonomous runs enabled**, with a reduced monthly capacity compared to paid tiers
 
@@ -94,14 +94,14 @@ If you have a qualifying `.edu` address, Academic gives you the full autonomous-
 
 Pro and Team are the standard paid tiers for individuals and growing teams.
 
-| Plan | Price | Seats | What you get |
-|------|-------|-------|--------------|
-| **Pro** | $39/mo (1 seat) → $99/mo (3 seats, $33/seat) | 1–3 | Full autonomous runs, standard monthly capacity, wallet top-ups, compute allotment, spending caps |
-| **Team** | $245/mo (5 seats) → $975/mo (25 seats) | 5–25 | Everything in Pro, larger monthly capacity, more seats, shared workspace and billing |
+| Plan | Seats | What you get |
+|------|-------|--------------|
+| **Pro** | 1–3 | Full autonomous runs, standard monthly capacity, wallet top-ups, compute allotment, spending caps |
+| **Team** | 5–25 | Everything in Pro, larger monthly capacity, more seats, shared workspace and billing |
 
 A few notes:
 
-- **Pro scales 1 to 3 seats.** At 3 seats you pay $99/mo total ($33 per seat).
+- **Pro scales 1 to 3 seats.**
 - **Team starts at 5 seats** and scales up to 25. There is no 4-seat plan — if you need 4 concurrent seats, move to Team at 5.
 - **Seats are concurrent projects, not people.** See [Seats](#seats) below.
 

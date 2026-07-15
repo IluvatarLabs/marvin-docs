@@ -82,7 +82,7 @@ If you need to redirect mid-run, stopping gives you a clean break point. Resume 
 
 ## Ask for help
 
-If something isn't working as expected or you have questions, reach out to **support@marvin.cloud**. Include what you were trying to do, what happened (or didn't happen), and the name of your project so we can investigate quickly.
+If something isn't working as expected or you have questions, reach out to **support@marvinsci.com**. Include what you were trying to do, what happened (or didn't happen), and the name of your project so we can investigate quickly.
 
 For common questions, check our [FAQ](faq.md) first — you may find a quick answer there. For anything else, see [contact & support](contact.md) for full details.
 
