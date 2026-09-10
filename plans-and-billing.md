@@ -78,17 +78,17 @@ The Free tier lets you explore Marvin at no cost.
 - Includes **chat** and **literature lookup**
 - Does **not** include autonomous research runs
 
-Free is great for trying the conversation and literature-search features and evaluating fit before committing. To run actual autonomous research, move to Academic or a paid plan.
+Free is great for trying the conversation and literature-search features and evaluating fit before committing. To run actual autonomous research, move to Academic or another paid plan.
 
 ### Academic tier
 
 The Academic tier is our **real research tier** for students and academics — not just a trial.
 
-- **No cost**
+- **$29/month**
 - Requires **`.edu` email verification**
-- **Autonomous runs enabled**, with a reduced monthly capacity compared to paid tiers
+- **Autonomous runs enabled**, with a reduced monthly capacity compared to Pro
 
-If you have a qualifying `.edu` address, Academic gives you the full autonomous-research experience at no cost. The monthly capacity is smaller than Pro, but the capability is identical — perfect for coursework, theses, and early-stage research.
+If you have a qualifying `.edu` address, Academic gives you the full autonomous-research experience for $29/month. The monthly capacity is smaller than Pro, but the capability is identical — perfect for coursework, theses, and early-stage research.
 
 ### Pro and Team plans
 
