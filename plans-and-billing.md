@@ -84,11 +84,11 @@ Free is great for trying the conversation and literature-search features and eva
 
 The Academic tier is our **real research tier** for students and academics — not just a trial.
 
-- **$29/month**
+- **$19/month**
 - Requires an **academic email address** (for example `.edu`, `.ac.uk`, or a supported university domain)
 - **Autonomous runs enabled**, with a reduced monthly capacity compared to Pro
 
-If you have a qualifying academic email address, Academic gives you the full autonomous-research experience for $29/month. The monthly capacity is smaller than Pro, but the capability is identical — perfect for coursework, theses, and early-stage research.
+If you have a qualifying academic email address, Academic gives you the full autonomous-research experience for $19/month. The monthly capacity is smaller than Pro, but the capability is identical — perfect for coursework, theses, and early-stage research.
 
 ### Pro and Team plans
 
